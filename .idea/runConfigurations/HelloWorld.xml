@@ -2,7 +2,7 @@
   <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="com.pb.antoniuk.hw1.HelloWorld" />
     <module name="JavaHomeWork" />
-    <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/.m2/repository$FileClass$$USER_HOME$/.m2/repository$ClasspathEntry$$FileClass$" />
+    <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/.m2/repository$FileClass$$USER_HOME$/.m2/reposito$MAVEN_REPOSITORY$ry$ClasspathEntry$$FileClass$" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.pb.antoniuk.hw1.*" />
